@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/QubitProducts/gogoproto-java.svg)](https://jitpack.io/#QubitProducts/gogoproto-java)
+
 Gogoproto Java Packaging
 ========================
 
@@ -9,6 +11,6 @@ Usage
 -----
 
 - Configure your project to use [Jitpack](https://jitpack.io/) as a resolver
-- Add `com.github.QubitProducts:gogoproto-java:1.0.0` as a dependency
+- Add `com.github.QubitProducts:gogoproto-java:1.0.0` as a dependency ([full instructions](https://jitpack.io/#QubitProducts/gogoproto-java/1.0.0))
 
 
